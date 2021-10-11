@@ -3,7 +3,7 @@
 ### Hi there👋,  I,m Hwahyeon Park  
 ### This is my portfolio 
 [![badege](https://img.shields.io/badge/-Portfolio-yellow)](https://github.com/hwahyeon-park)
-#
+
 # 📓 Tech Stack 📓  
 Techs that I've used at least once
 
@@ -11,7 +11,7 @@ Techs that I've used at least once
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) ![](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Azure&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![](https://img.shields.io/badge/Raspbeerypi-A22846?style=flat-square&logo=Raspberrypi&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 
-#
+
 
 # 📍 Contact Me 📍
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:hwahyeonp25@gmail.com)
