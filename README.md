@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=354660&height=300&section=header&text=Hwahyeon%20Park&fontColor=ffffff&fontSize=90)
 
 ## Hi there👋,  I'm Hwahyeon Park and This is my portfolio 
-[![badege](https://img.shields.io/badge/-Portfolio-yellow)](https://github.com/hwahyeon-park)
+[![badege](https://img.shields.io/badge/-Portfolio-yellow)](https://hwahyeon-park.github.io/Portfolio-KR/)
 
 # 📓 Tech Stack 📓  
 Techs that I've used at least once
